@@ -1,4 +1,4 @@
-let restaurant_list = [
+[
 	'Goobne Chicken',
 	'金記燒臘餐廳',
 	'陸宜居茶餐廳',
